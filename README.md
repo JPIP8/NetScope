@@ -4,7 +4,7 @@
 </h1>
  
 # <h1 align="center">**`NetScope`**</h1>
-<sub>(The name of my project)</sub>
+<sub align="center">(The name of my project)</sub>
 # <h1 align="center">**`A Data-Driven Approach to Telecommunications and Internet`**</h1>
 
 <p align='center'>
@@ -34,16 +34,10 @@ Compared to the global average, Argentina is at the forefront of telecommunicati
 
 ## Data Origin:
 
-- [Original Dataset](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
+- [Dataset](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
-
-
-
-
-
-
-## My LinkedIn
-[(Juan Pablo Idrovo)](https://www.linkedin.com/in/juan-pablo-idrovo-3366a351/)
+## LinkedIn
+- [Juan Pablo Idrovo :)](https://www.linkedin.com/in/juan-pablo-idrovo-3366a351/)
  
-<h1>Thank You !</h1>
+<h1 align="center">Thank You !</h1>
 
